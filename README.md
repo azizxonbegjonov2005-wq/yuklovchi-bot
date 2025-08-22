@@ -1,0 +1,2 @@
+# yuklovchi-bot
+yuklovchi bot
